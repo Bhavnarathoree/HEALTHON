@@ -12,6 +12,8 @@ The project's goal is to create a virtual health consultation website for person
 * make a appointment 
 * Questionnaire
 * System Analysis 
+* Report
+
 # Technologies and Packages Used
 
 1. HTML
