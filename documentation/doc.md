@@ -1,4 +1,4 @@
-# Healthon :"Your Health Journey Starts Here: Join the Community"
+# Healthon :"Your Health Journey Starts Here"
 # Project Description
 The project's goal is to create a virtual health consultation website for persons living in rural places who find it difficult to consult with specialists. It might be used to consult on symptoms observed in patients (users) by organising appointments with professionals. In appointment mode, it includes two key features: booking appointments with professionals through Chat and another via Meet. After visiting with professionals, patients (users) can receive their reports and prescriptions in a methodical manner. It is also useful for obtaining illness information.
 
